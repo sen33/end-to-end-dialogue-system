@@ -1,0 +1,7 @@
+*.pt
+*__pycache__*
+data/*.json
+run/*
+runs/*
+data/with-kb/*
+data/without-kb/*

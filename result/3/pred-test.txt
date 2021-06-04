@@ -1,0 +1,562 @@
+midsummer_house_restaurant in the centre part of town serves expensive british food .
+there is an expensive british restaurant that serves british food .
+the phone number is 01223_276182 .
+thank you for using this system . goodbye .
+i have found two . they are da_vinci_pizzeria and royal_spice .
+the address is 20_milton_road_chesterton and the phone number is 01223_351707 .
+the address for da_vinci_pizzeria is 20_milton_road_chesterton .
+thank you for using the cambridge restaurant system . good bye .
+what price range would you like ?
+the_copper_kettle is moderately priced and serves british food .
+saint_johns_chop_house is located at 21-24_northampton_street and the phone number is 01223_353110 . will that be all ?
+restaurant_one_seven is a moderately priced restaurant in the centre of town . their number is 01223_337766 .
+thank you for using the cambridge restaurant system . good bye .
+i found several . would you care for a specific type of food ?
+the_cambridge_chop_house is a british restaurant in the centre of town , and is in the expensive price range .
+how about graffiti , it serves british food , and it is in the expensive price range .
+the address is hotel_felix_whitehouse_lane_huntingdon_road , and the phone number is 01223_277977 .
+the address is hotel_felix_whitehouse_lane_huntingdon_road .
+graffiti is located at hotel_felix_whitehouse_lane_huntingdon_road . how else may i assist you ?
+the_good_luck_chinese_food_takeaway serves expensive food in the south part of town .
+frankie_and_bennys is an expensive restaurant in the south part of town .
+their phone number is 01223_412430 .
+have a good day !
+there is an italian restaurant in the west part of town that is cheap . would you like their address and phone number ?
+la_margherita is located at 15_magdalene_street_city_centre and their phone number is 01223_315232 . can i help you with anything else ?
+thank you and goodbye .
+there are two restaurants serving italian food in the north part of town . what price range do you want ?
+da_vinci_pizzeria is located at 20_milton_road_chesterton . its phone number is 01223_351707 . is there anything else i can help you with ?
+thank you for using our system . good bye
+there are no italian restaurants in the south part of town . shall i search for something else ?
+the phone number is 01223_323737 and the postcode is cb17dy .
+they serve italian food .
+they are in the expensive price range .
+thank you for using the cambridge restaurant system . good bye .
+there are two british restaurants in the centre part of town . what price range do you want ?
+saint_johns_chop_house is a moderately priced restaurant in the west part of town .
+thank you , goodbye .
+what kind of food are you interested in having ?
+pizza_hut_fen_ditton is located at cambridge_retail_park_newmarket_road_fen_ditton and their phone number is 01223_323737 .
+thank you . good bye
+i found da_vinci_pizzeria in the north part of town .
+da_vinci_pizzeria 's address is 20_milton_road_chesterton and the phone number is 01223_351707 . is there anything else i can help you with ?
+da_vinci_pizzeria 's address is 20_milton_road_chesterton . is there anything else i can help you with ?
+thank you . goodbye .
+good bye .
+do you have a preference as to what part of town ?
+zizzi_cambridge is a italian restaurant that serves italian food in the cheap price range and is in the centre part of town .
+ask is located at 12_bridge_street_city_centre and its phone number is 01223_364917 . is there anything else i can help you with ?
+you 're welcome . goodbye .
+prezzo is located at 21_-_24_northampton_road . their number is 01799_521260 .
+you 're welcome . goodbye .
+grafton_hotel_restaurant is a nice restaurant in the east part of town . it is in the expensive price range and serves british food .
+the address is grafton_hotel_619_newmarket_road_fen_ditton and the phone number is 01223_241387 .
+have a nice day . goodbye .
+no restaurants serving scottish food
+i 'm sorry , there are no restaurants serving catalan food in the centre part of town .
+yes , the_oak_bistro is in the centre area and serving british food .
+the phone number is 01223_302010 .
+you 're welcome . goodbye .
+there are no british restaurants in the centre part of town . what price range would you like ?
+the_copper_kettle is an british restaurant in the moderate price range and in the centre part of town , the address is 4_kings_parade_city_centre and the phone number is 01223_365068
+thank you , goodbye
+i 'm sorry , there is not a restaurant serving singaporean food in the moderate price range .
+the_oak_bistro is an moderate restaurant that serves british food in the centre part of town .
+saint_johns_chop_house is at 21-24_northampton_street and their phone number is 01223_353110 .
+you 're welcome . good bye .
+you 're welcome . good bye .
+ali_baba in the centre part of town serves expensive lebanese food .
+ali_baba is located at 59_hills_road_city_centre . their phone number is 01462_432565 .
+thank you good bye .
+i have found two . they are the_good_luck_chinese_food_takeaway and taj_tandoori .
+frankie_and_bennys is at cambridge_leisure_park_clifton_way_cherry_hinton , and their phone number is 01223_412430 . can i help you with anything else ?
+thank you for using the cambridge restaurant system . good bye .
+is there an area of town or type of cuisine you have in mind ?
+meghna is a indian restaurant in the west of town , and is in the moderate price range .
+meghna is in the west part of town and in the moderate price range .
+their phone number is 01223_353110 and their address is 21-24_northampton_street .
+thank you for choosing our system . good bye
+i found three in the centre part of town and one in the south . which area do you prefer ?
+there are no hungarian restaurants in the centre of town . would you like to change your query ?
+there are two italian restaurants in the cheap price range . would you like their location ?
+the_copper_kettle serves moderate british food , located in the centre area at 4_kings_parade_city_centre with phone number 01223_365068
+the_copper_kettle is in the moderate price range and at 4_kings_parade_city_centre . their phone number is 01223_365068 .
+the address is 21-24_northampton_street and the phone number is 01223_353110 .
+thank you and have a great day !
+that would be the pizza_hut_cherry_hinton at 280 g4_cambridge_leisure_park_clifton_way_cherry_hinton . they can be reached at 01223_323737 .
+pizza_hut_cherry_hinton is located at g4_cambridge_leisure_park_clifton_way_cherry_hinton . their phone number is 01223_323737 . is there anything else i can help you with ?
+thank you for using our system . good bye
+no moderately priced caribbean restaurants . would you like something different ?
+they are located at 6_lensfield_road . how else may i assist you ?
+fitzbillies_restaurant is at 51_trumpington_street_city_centre , phone number is 01223_352500 .
+goodbye .
+thank you for using the cambridge restaurant system . goodbye .
+there are several restaurants in the south part of town . what type of food would you like ?
+the pizza_hut_cherry_hinton is in the south part of town and is in the cheap price range .
+the address is 21_-_24_northampton_road and the postcode is cb30ad . is there anything else i can help you with ?
+you 're welcome . goodbye .
+i have found two expensive italian restaurants , stazione_restaurant_and_coffee_bar and frankie_and_bennys . both are in the centre area . would you like more information on either one of these restaurants ?
+frankie_and_bennys is an expensive italian restaurant in the south part of town . would you like their location ?
+stazione_restaurant_and_coffee_bar is located at market_hill_city_centre and the phone number is 01223_352607 .
+they serve italian food .
+you 're welcome , thank you for using the cambridge restaurant system . goodbye .
+i 'm sorry but there are no austrian restaurants in the south part of town .
+frankie_and_bennys is a italian restaurant in the south of town . it 's phone number is 01223_412430 , and the address is cambridge_leisure_park_clifton_way_cherry_hinton .
+their phone number is 01223_412430 .
+thank you for using our system . good bye
+i 'm sorry , but there are no expensive restaurants that serve indonesian food .
+grafton_hotel_restaurant is a great british eatery .
+grafton_hotel_restaurant is a british restaurant in the expensive price range .
+the phone number is 01223_352500 .
+the address is 51_trumpington_street_city_centre .
+thank you . goodbye .
+would you prefer the centre or north part of town ?
+ask is a italian restaurant in the cheap price range located in the centre part of town .
+ask is in the centre area and serves italian food .
+their address is 12_bridge_street_city_centre , postcode is cb21uf .
+thank you and good bye
+i 'm sorry but there are no austrian restaurants in the south part of town .
+pizza_hut_cherry_hinton is a italian restaurant in the south of town , and is in the moderate price range .
+frankie_and_bennys is a italian restaurant in the south of town and is in the expensive price range .
+pizza_hut_cherry_hinton is located at g4_cambridge_leisure_park_clifton_way_cherry_hinton .
+the postcode for pizza_hut_cherry_hinton is cb17dy
+thank you , goodbye .
+what price range do you have in mind ?
+there are four restaurants that serve italian food . what part of town would you like ?
+efes_restaurant serves turkish food and is located in the centre part of town . would you like more information for them ?
+their phone number is 01223_364917 . may i help you with anything else ?
+thank you for using the cambridge restaurant system . goodbye .
+zizzi_cambridge is a recommended italian restaurant in the centre .
+da_vinci_pizzeria is an italian restaurant in the cheap price range and in the north .
+the address is 15_magdalene_street_city_centre and the phone number is 01223_315232 .
+thank you good bye
+i 'm sorry , but there are no moderately priced brazilian restaurants .
+the_copper_kettle is an moderate restaurant that serves british food .
+the_copper_kettle is in the centre area and serving british food , is there anything i can help you with ?
+the phone number is 01223_302010 , their address is 183_east_road_city_centre and their postcode is cb11bg .
+thank you for using our system . good bye
+i 'm sorry there are no bbq places in the city , is there another type of food you would be interested in ?
+the_copper_kettle serves british food and is in the moderate price range .
+there is a moderately priced restaurant in the centre of town . would you like their address ?
+grafton_hotel_restaurant is a moderately priced british restaurant in the east of town .
+grafton_hotel_restaurant is located at 183_east_road_city_centre and their phone number is 01223_302010 .
+thank you and good bye .
+no matches found for cheap malaysian food . would you like something else ?
+da_vinci_pizzeria is a italian restaurant that serves italian food and is in the cheap price range .
+ask is a italian restaurant that serves italian food and is in the cheap price range .
+zizzi_cambridge is located at 47-53_regent_street and their phone number is 01223_365599 .
+you 're welcome . goodbye .
+there are no restaurants matching your request . would you like a different one ?
+there are four restaurants that serve italian food . what price range are you looking for ?
+da_vinci_pizzeria is located at 20_milton_road_chesterton and their phone number is 01223_351707 .
+thank you for using the cambridge restaurant system . goodbye .
+good bye
+i 'm sorry . there are no matching records found for that request .
+there is an cheap restaurant that serves italian food in the expensive price range .
+the phone number is 01799_521260 .
+thank you for using the cambridge restaurant system . goodbye .
+what area are you looking for ?
+nandos is an cheap portuguese restaurant in the south part of town .
+frankie_and_bennys is an expensive italian restaurant in the south part of town .
+the phone number for frankie_and_bennys is 01223_412430 and their postcode is cb17dy .
+thank you for using our system . good bye
+thank you for using our system . good bye
+there are two restaurants serving moderate food in the south part of town . do you have a preference of <UNK> or indian food ?
+two selections fit your requirements . pizza_hut_cherry_hinton and restaurant_alimentum are both located in the south part of town . do either of those interest you ?
+frankie_and_bennys is a italian restaurant in the south of town . would you like their phone number ?
+the phone number is 01223_412430 and postcode is cb17dy .
+have a good evening .
+i have to options for italian food in the expensive price range , clowns_cafe and stazione_restaurant_and_coffee_bar .
+how about stazione_restaurant_and_coffee_bar at market_hill_city_centre ?
+their phone number is 01223_448620 and their address is 32_bridge_street_city_centre .
+you 're welcome . good bye .
+i 'm sorry . there are no restaurants matching your criteria . would you like a different style of food ?
+la_margherita serves italian food and is located in the west part of town . would you like more information for them ?
+their phone number is 01223_315232 .
+thank you for using our system . good bye
+thank you . goodbye .
+i 'm sorry , there are no austrian restaurants located in the centre part of town .
+i have found no restaurants matching your request . would you like a different restaurant ?
+there are two italian restaurants . would you prefer the west or south part of town ?
+prezzo serves italian food and is located in the west part of town . would you like more information on it ?
+their phone number is 01799_521260 .
+thank you for using our system . good bye
+have a nice day .
+i am not able to locate a scandinavian restaurant ; do you have a second choice ?
+pizza_hut_city_centre is a italian restaurant that serves italian food .
+da_vinci_pizzeria is located at 20_milton_road_chesterton . their phone number is 01223_351707 .
+you 're welcome . goodbye .
+there are no international restaurants in the north part of town . what price range would you like ?
+da_vinci_pizzeria is a italian restaurant in the north of town , and is in the cheap price range .
+da_vinci_pizzeria is located at 20_milton_road_chesterton and the phone number is 01223_351707 .
+thank you and good bye
+im sorry , there are no restaurants that serve world food . can i help you with something else ?
+pizza_hut_city_centre is an cheap restaurant that serves italian food .
+the phone number is 01223_315232 . will that be all ?
+the phone number is 01223_315232 .
+you 're welcome . goodbye .
+cotto would fit the bill .
+the_copper_kettle is in the centre part of town and serves british food .
+fitzbillies_restaurant is at 51_trumpington_street_city_centre and its phone number is 01223_352500 .
+thank you for using the cambridge restaurant system . goodbye .
+both the dojo_noodle_bar and the phone number is 01223_363471 .
+which area of town would you prefer ?
+la_margherita is a italian restaurant that serves italian food in the cheap price range and is in the west part of town .
+da_vinci_pizzeria is located at 20_milton_road_chesterton and its phone number is 01223_351707 . is there anything else i can help you with ?
+goodbye .
+there are two restaurants serving chinese food . would you prefer a specific price range ?
+there is a very nice restaurant that serves italian food .
+there is a very nice restaurant in the expensive price range . it is located in the centre of town .
+the address is 32_bridge_street_city_centre and the phone number is 01223_448620 .
+thank you for using the cambridge restaurant system . goodbye .
+da_vinci_pizzeria , at 20_milton_road_chesterton , is cheap and serves italian food .
+ask serves italian food and is in the cheap price range . their phone number is 01223_364917 and they are located at 12_bridge_street_city_centre .
+ask is in the cheap price range and serves italian food .
+thank you and good bye .
+unfortunately , there are no danish restaurants listed in the south part of town . would you like something else ?
+there are four venues serving italian food in the south of town . what price range would you like ?
+frankie_and_bennys is located in the south part of town and is in the expensive price range . their phone number is 01223_412430 and the postcode is cb17dy .
+thank you for using our system . good bye
+what kind of food would you like ?
+pizza_hut_cherry_hinton is located at g4_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_323737 . is there anything else i can help you with ?
+thank you for using the cambridge restaurant system . goodbye .
+that would be the grafton_hotel_restaurant at 280 grafton_hotel_619_newmarket_road_fen_ditton . they can be reached at 01223_241387 .
+thank you for using the cambridge restaurant system . goodbye .
+thank you for using our system . good bye
+there are three , moderately priced restaurants in the west part of town . do you have a cuisine preference ?
+saint_johns_chop_house is a moderately priced restaurant in the west part of town
+saint_johns_chop_house is at 21-24_northampton_street . is there anything else i can help you with today ?
+thank you . good bye .
+i 'm sorry , there are no tuscan restaurants in the expensive price range . would you like to try something else ?
+graffiti is an expensive british restaurant in the west part of town . would you like their address ?
+their address is hotel_felix_whitehouse_lane_huntingdon_road .
+it is in the west part of town
+thank you , goodbye .
+there are five restaurants in the expensive category in that area . would you prefer indian , modern_european , international , or italian ?
+frankie_and_bennys is an expensive italian restaurant in the south part of town . would you like their location ?
+their phone number is 01223_412430 .
+thank you for using the cambridge restaurant system . goodbye .
+there are several restaurants in the west part of town . would you like something in the expensive , moderate or cheap price range ?
+thanh_binh is a vietnamese restaurant in the west part of town .
+travellers_rest is a british restaurant located in the west part of town and is in the expensive price range .
+the address is hotel_felix_whitehouse_lane_huntingdon_road and the phone number is 01223_277977 .
+the address is hotel_felix_whitehouse_lane_huntingdon_road . the phone number is 01223_277977 .
+thank you for using the cambridge restaurant system . good bye .
+it looks like there are no german restaurants in the city . would you like me to check for a different type of restaurant ?
+there are two restaurants in the expensive price range that serve italian food . what type would you like ?
+la_margherita is located at 15_magdalene_street_city_centre and its phone number is 01223_315232 .
+thank you for using the cambridge restaurant system . good bye .
+there are two restaurants serving indian food in the west part of town . what price range do you want ?
+i have two restaurants available , do you prefer indian or british food ?
+saint_johns_chop_house serves british food and is located in the west part of town . their phone number is 01223_353110 .
+saint_johns_chop_house is a moderately priced british restaurant in the west part of town . would you like more information ?
+graffiti is located at hotel_felix_whitehouse_lane_huntingdon_road and their phone number is 01223_277977 . is there anything else i can help you with ?
+thank you , goodbye .
+there are two restaurants serving international food . do you have a preference of area or price range ?
+graffiti serves british food . they are located at hotel_felix_whitehouse_lane_huntingdon_road and are in the expensive price range .
+the phone number is 01223_352500 . is there anything else i can help you with ?
+you 're welcome . goodbye .
+there are five restaurants in the moderate category in that area . would you prefer italian , thai , chinese , or british ?
+the address of pizza_hut_fen_ditton is cambridge_retail_park_newmarket_road_fen_ditton and the phone number is 01223_323737 .
+thank you and have a great day !
+there are no restaurants that serve brazilian food .
+there are four restaurants that serve british food . what part of town would you like ?
+sure , the phone number is 01223_277977 .
+thank you good bye
+no mathcing records found for that request
+da_vinci_pizzeria is a italian restaurant in the north of town . would you like their phone number ?
+thank you and goodbye !
+you are welcome goodbye
+you 're welcome . goodbye .
+there are two restaurants in the south area , restaurant_alimentum and pizza_hut_cherry_hinton which serves modern_european . would you like more information ?
+pizza_hut_cherry_hinton is a moderately priced restaurant in the south side of town .
+pizza_hut_cherry_hinton is also a moderately priced restaurant in the south of town .
+their address is g4_cambridge_leisure_park_clifton_way_cherry_hinton and the postcode is cb17dy .
+you 're welcome and thank you for calling . goodbye .
+i have to options for chinese food in the expensive price range , curry_garden and rice_boat .
+fitzbillies_restaurant is a british restaurant that serves british food .
+the_cambridge_chop_house serves british food , is located in the centre part of town and is in the expensive price range .
+the phone number for graffiti is 01223_277977 . is there anything else i can help you with ?
+thank you for using the cambridge restaurant system . good bye .
+there are no matches for that search
+the phone number is 01223_359506 .
+thank you for using the cambridge restaurant system . good bye .
+what area would you like to look in ?
+there are no restaurants serving vegetarian food .
+the phone number is 01223_315232 .
+my pleasure . goodbye .
+im sorry , there are no restaurants that serve world food . can i help you with something else ?
+don_pasquale_pizzeria is located at 12_market_hill_city_centre and their phone number is 01223_350106 . may i help you with anything else ?
+you 're welcome . goodbye .
+there are no restaurants that match your request . would you like to search for another food type or price range ?
+there are four restaurants . would you prefer the west or centre part of town ?
+it 's phone number is 01223_302010 .
+thank you for using the cambridge restaurant system . goodbye .
+i found one in the centre part of town and one in the north .
+the address is 12_bridge_street_city_centre , and the phone number is 01223_364917 .
+the da_vinci_pizzeria is located at 20_milton_road_chesterton and they can be reached at 01223_351707 .
+thank you for using the cambridge restaurant system . goodbye .
+of course . may i suggest prezzo , an italian restaurant ?
+prezzo address is 21_-_24_northampton_road and the phone number is 01799_521260 . is there anything else i can help you with ?
+thank you for using the cambridge restaurant system . goodbye .
+what kind of food are you interested in ?
+pizza_express_fen_ditton is a nice restaurant that serves italian food .
+meze_bar_restaurant is a turkish restaurant in the centre part of town . would you like their location ?
+don_pasquale_pizzeria is in the centre part of town and serves italian food .
+prezzo is located at 21_-_24_northampton_road . how else may i assist you ?
+thank you , goodbye .
+i 'm sorry , there are no traditional restaurants listed in the south part of town . would you like to try something else ?
+pizza_hut_cherry_hinton is a italian restaurant in the south of town , and is in the moderate price range .
+pizza_hut_cherry_hinton is a moderately priced restaurant in the south part of town and is in the moderate price range . would you like their address ?
+the address is g4_cambridge_leisure_park_clifton_way_cherry_hinton and the postcode is cb17dy . can i help you with anything else ?
+thank you and good bye
+my apologies , but there does n't seem to be any restaurants matching your request . would you like to broaden your search ?
+da_vinci_pizzeria is a italian restaurant in the cheap price range located in the north part of town . would you like more information ?
+da_vinci_pizzeria is located at 20_milton_road_chesterton . the phone number is 01223_351707 .
+thank you for using the cambridge restaurant system . good bye .
+have a nice day !
+the taj_tandoori is in the expensive price range and in the south part of town . would you like their information ?
+taj_tandoori is a indian restaurant in the south of town and is in the expensive price range .
+the phone number is 01223_412299 and it is located at 64_cherry_hinton_road_cherry_hinton .
+thank you , goodbye .
+what part of town would you like ?
+golden_wok is located in the north part of town , is moderately priced and serves chinese food .
+there is the_nirala with moderate pricing in the north part of town .
+the phone number is 01223_350688 .
+thank you for using our system . good bye
+golden_wok is a moderately priced chinese restaurant in the north part of town . their address is 191_histon_road_chesterton and their phone number is 01223_350688
+thank you , goodbye .
+chiquito_restaurant_bar is an mexican restaurant that meets your criteria . would you like their location ?
+frankie_and_bennys serves italian food , in the expensive price range and in the south . would you like to know the address and phone number ?
+chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton and their phone number is 01223_400170 . is there anything else i can help you with ?
+you 're very welcome . goodbye .
+the_lucky_star is in the south part of town , and it is in the cheap price range . is there anything else i can help you with ?
+yes there are four other options . what kind of food would you like ?
+have a wonderful day ! good bye !
+thank you , goodbye !
+i 'm sorry . there are no restaurants serving english food near your area .
+nandos_city_centre serves portuguese food . they are located at 33-34_saint_andrews_street .
+the address is cambridge_leisure_park_clifton_way and the phone number is 01223_327908 .
+goodbye .
+goodbye .
+do you have a preference as to food type ?
+there are four restaurants that serve portuguese food . what price range would you like ?
+nandos is located at cambridge_leisure_park_clifton_way and their phone number is 01223_327908 . is there anything else i can help you with ?
+you 're welcome . good bye .
+there are two lebanese restaurants in the centre area , both cheaply priced . would you like their addresses ?
+ali_baba is located at 59_hills_road_city_centre and the phone number is 01462_432565 .
+you 're welcome , goodbye .
+that would be the the_missing_sock at 280 finders_corner_newmarket_road . they can be reached at 01223_812660 .
+there is the_missing_sock which is an international restaurant in the east part of town .
+their phone number is 01223_812660 .
+thank you , goodbye .
+sorry there are no malasian resturants in the area you are looking for . can i help you with something elese .
+sitar_tandoori is a nice restaurant that serves indian food in the east part of town .
+curry_prince is located at 451_newmarket_road_fen_ditton . their phone number is 01223_566388 . can i help you with anything else ?
+you 're welcome . good bye .
+the_nirala is a nice restaurant in the north part of town . it is in the moderate price range and serves indian food .
+there are two restaurants in the moderate price range and north part of town . what kind of food would you like ?
+the phone number for the_nirala is 01223_350688 and they are located at 191_histon_road_chesterton . the postcode is cb43hl .
+thank you for using our system . good bye
+goodbye
+do you have a preference on the type of food ?
+the_nirala is located at 7_milton_road_chesterton , and the phone number is 01223_360966 . is there anything else i can help you with ?
+thank you . good bye
+do you have a preference on the type of food ?
+da_vinci_pizzeria is a nice restaurant in the north part of town serving italian food , and is in the cheap price range .
+the address of da_vinci_pizzeria is 20_milton_road_chesterton .
+you 're welcome . goodbye !
+would you prefer chinese food or indian food ?
+the_nirala is in the moderate price range and it is in the north part of town . the phone number is 01223_350688
+the phone number is 01223_350688 .
+the phone number is 01223_350688 .
+thank you for using our system . good bye
+i 'm sorry , there are no restaurants that serve world food . can i help you with something else ?
+thanh_binh serves vietnamese food and is located in the west part of town . would you like more information for them ?
+thanh_binh is located at 17_magdalene_street_city_centre . how else may i assist you ?
+thank you for using the cambridge restaurant system . goodbye .
+there are no restaurants serving scottish food . would you like to try something else ?
+backstreet_bistro serves gastropub food and is in the centre of town . would you like their address ?
+the_slug_and_lettuce serves gastropub food and is located in the centre part of town .
+the address is 290_mill_road_city_centre .
+the phone number for backstreet_bistro is 01223_306306 and they are located at 2_sturton_street_city_centre .
+you 're welcome . goodbye .
+there are three results for spanish restaurants . would you prefer the centre or south part of town ?
+la_tasca is located at 14_-16_bridge_street and their phone number is 01223_464630 .
+you 're welcome . good bye
+goodbye .
+do you have a preference on the type of food ?
+the the_lucky_star is located at cambridge_leisure_park_clifton_way_cherry_hinton and its phone number is 01223_244277 .
+the frankie_and_bennys is located at cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_412430 .
+their address is cambridge_leisure_park_clifton_way and their phone number is 01223_327908 .
+the address is cambridge_leisure_park_clifton_way and the phone number is 01223_327908 .
+thank you , goodbye .
+what part of town would you like ?
+curry_prince serves indian food in the east part of town . would you like their location ?
+rajmahal is located at 7_barnwell_road_fen_ditton and its phone number is 01223_244955 . can i help you with anything else ?
+you 're welcome . goodbye .
+goodbye
+little_seoul is a korean restaurant in the centre part of town . would you like their location ?
+little_seoul is located at 108_regent_street_city_centre . the phone number is 01223_308681 and the postcode is cb21dp .
+thank you for using our system . good bye
+the_nirala is in the north part of town and in the moderate price range . their address is 7_milton_road_chesterton .
+thank you for using the cambridge restaurant system . goodbye .
+there are three restaurants serving asian_oriental food in the center of town . what price range would you like ?
+there are three restaurants serving indian food in the center of town . what price range would you like ?
+saint_johns_chop_house is a moderately priced restaurant in the west of town that serves british food .
+meghna is a moderately priced restaurant in the west of town that serves indian food .
+prezzo is located at 21_-_24_northampton_road and their phone number is 01799_521260 .
+you 're welcome and thank you for calling . goodbye .
+chiquito_restaurant_bar is a mexican restaurant in the south of town and is in the expensive price range .
+the phone number is 01223_400170 .
+the address is 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton .
+thank you for using the cambridge restaurant system . goodbye .
+there are no restaurants that fit your desired criteria . is there another cuisine type or price range ?
+there are two restaurants that serve chinese food . what price range are you looking for ?
+the_cow_pizza_kitchen_and_bar serves gastropub food in the centre part of town . would you like their location ?
+their phone number is 01223_308871 and their address is corn_exchange_street .
+you 're welcome . goodbye .
+what price range are you looking for ?
+there are two restaurants in the west area , which serves british food . do you prefer ?
+the address for saint_johns_chop_house is 21-24_northampton_street . can i help you with anything else ?
+they serve british food .
+goodbye .
+i would suggest you try the chiquito_restaurant_bar .
+peking_restaurant is a chinese restaurant located in the south part of town and is in the expensive price range . would you like their address ?
+chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton and their phone number is 01223_400170 . is there anything else i can help you with ?
+thank you , goodbye .
+meghna is a nice restaurant in the west part of town .
+meghna is a indian restaurant that serves indian food .
+la_margherita is an cheap restaurant located in the west part of town . their phone number is 01223_315232 .
+they serve italian food .
+la_margherita is located at 15_magdalene_street_city_centre . the phone number is 01223_315232 .
+goodbye
+do you have a preference on the type of food ?
+curry_prince is located at 451_newmarket_road_fen_ditton . its phone number is 01223_566388 and the postcode is cb58jj . is there anything else i can help you with ?
+thank you for using our system . good bye
+sorry , there are no expensive restaurants serving cantonese food . would you like to look for something else ?
+saigon_city is an asian_oriental restaurant in the expensive price range .
+the phone number for gourmet_burger_kitchen is 01223_312598 and the postcode is cb21ab .
+thank you for using our system . good bye
+there are no restaurants matching your request . would you like to find another restaurant ?
+i have no steakhouse in the centre area , but golden_house is located in the centre area .
+i 'm sorry , there are no restaurants serving catalan food in the centre part of town . would you like to try something else ?
+efes_restaurant is a turkish restaurant in the centre of town , and is in the moderate price range .
+meze_bar_restaurant is a expensive turkish restaurant in the centre . would you like their information ?
+anatolia is located at 30_bridge_street_city_centre . is there anything else i can help you with ?
+you are welcome . thank you for calling
+there is not a restaurant matching your request . would you like a different restaurant ?
+there are no hungarian restaurants i can direct you to . would you like another type of food ?
+gourmet_burger_kitchen is located at regent_street_city_centre , postcode is cb21ab . their phone number is 01223_312598 . may i help you with anything else ?
+you 're welcome . good bye .
+there is a lebanese restaurant in the centre area of town . their phone number is 01462_432565 and their address is 59_hills_road_city_centre
+you 're welcome . good bye .
+i found several restaurants meeting your criteria . would you prefer turkish , indian or chinese food ?
+yes , galleria serves european food in the moderate price range and in the centre part of town .
+de_luca_cucina_and_bar serves modern_european food and is located in the centre part of town . would you like more information for them ?
+thank you for using the cambridge restaurant system . goodbye .
+there are two european restaurants , galleria and hotel_du_vin_and_bistro .
+cambridge_lodge_restaurant is an european restaurant that serves european food .
+cambridge_lodge_restaurant is a nice restaurant that serves european food .
+the phone number for cambridge_lodge_restaurant is 01223_355166 and they are located at cambridge_lodge_hotel_139_huntingdon_road_city_centre .
+thank you for using our system . good bye
+restaurant_alimentum is a moderately priced restaurant in the south side of town .
+the address for pizza_hut_cherry_hinton is g4_cambridge_leisure_park_clifton_way_cherry_hinton . would you like anything else ?
+thank you very much , good bye .
+there are two restaurants in the south area , anatolia and riverside_brasserie which serves turkish . would you like more information ?
+meghna is a moderately priced restaurant in the west part of town .
+the phone number for meghna is 01223_727410 .
+thank you for using the cambridge restaurant system . goodbye .
+what type of food are you looking for ?
+the phone number for da_vinci_pizzeria is 01223_351707 and they are located at 20_milton_road_chesterton .
+they serve italian food .
+thank you for using our system . good bye
+the pizza_hut_cherry_hinton in on the south side of town and is in the moderate price range .
+their phone number is 01223_413000 .
+thank you for using our system . good bye
+i recommend bangkok_city . it is in the north part of town with a expensive price range .
+sala_thong is a thai restaurant in the expensive price range located at 35_newnham_road_newnham and the phone number is 01223_323178 . is there anything else i can help you with ?
+thank you for using the cambridge restaurant system . goodbye .
+cambridge_lodge_restaurant is an expensive european restaurant in the west area . the address is cambridge_lodge_hotel_139_huntingdon_road_city_centre and the phone number is 01223_355166
+you 're welcome . goodbye .
+there are two restaurants serving indian food in the west part of town . what price range do you want ?
+you 're welcome . good bye .
+thank you , goodbye .
+goodbye .
+goodbye .
+there are no restaurants serving vegetarian food .
+the galleria is in the centre of town and serves european food .
+the address is cambridge_lodge_hotel_139_huntingdon_road_city_centre and the phone number is 01223_355166 .
+you 're welcome . goodbye .
+what type of food would you like ?
+there are three options which match your request . how about royal_spice , which serves indian food ?
+royal_spice is located at victoria_avenue_chesterton and their phone number is 01733_553355 . is there anything else i can help you with ?
+thank you , goodbye
+the_missing_sock is an international restaraunt in the east part of town . would you like their phone number or address ?
+the phone number for the_missing_sock is 01223_812660 and their address is finders_corner_newmarket_road .
+you 're welcome . have a good day !
+goodbye .
+the_slug_and_lettuce is a gastropub restaurant in the centre of town . would you like their location ?
+the address of backstreet_bistro is 2_sturton_street_city_centre and the postcode is cb12qa .
+you 're welcome . good bye .
+pizza_hut_cherry_hinton is located in the south part of town and is in the moderate price range . their phone number is 01223_323737 .
+they serve modern_european food and are located at 152_-_154_hills_road . their number is 01223_413000 .
+thank you , goodbye .
+thank you , goodbye .
+thank you . good bye
+you 're welcome . goodbye .
+there are three , moderately priced restaurants in the north part of town . do you have a cuisine preference ?
+the address is 191_histon_road_chesterton . the phone number is 01223_350688
+their phone number is 01223_350688 .
+thank you , goodbye !
+i am not able to locate a scandinavian restaurant ; do you have a second choice ?
+restaurant_two_two is a french restaurant that serves french food in the expensive price range and in the north part of town .
+restaurant_two_two is located at 22_chesterton_road_chesterton and their phone number is 01223_351880 .
+thank you for using our system . good bye
+what area are you looking for ?
+anatolia is located at 30_bridge_street_city_centre , postcode is cb21uj .
+you 're welcome . goodbye .
+golden_wok is a moderately priced restaurant in the north part of town
+the address for golden_wok is 191_histon_road_chesterton .
+thank you .
+enjoy your meal !
+no restaurants matching your description . would you like a different type of food ?
+the_river_bar_steakhouse_and_grill serves modern_european food and is located in the centre part of town . would you like more information for them ?
+the_river_bar_steakhouse_and_grill is at quayside_off_bridge_street and their phone number is 01223_307030 .
+thank you for using our system . good bye
+la_raza is an cheap restaurant in the city centre that serves spanish food .
+ali_baba is a lebanese restaurant in the centre part of town . would you like their location ?
+ali_baba is located at 59_hills_road_city_centre and its phone number is 01462_432565 . is there anything else i can help you with ?
+you 're welcome . good bye .
+unfortunately , there are no danish restaurants listed in the centre part of town . would you like something else ?
+frankie_and_bennys is a nice restaurant that serves italian food and is in the expensive price range .
+gourmet_burger_kitchen is located in the centre part of town . their phone number is 01223_312598 and the postcode is cb21ab
+gourmet_burger_kitchen is in the centre part of town , and it 's phone number is 01223_312598 .
+gourmet_burger_kitchen 's phone number is 01223_312598 , their postcode is cb21ab
+thank you for using our system . good bye
+the_missing_sock is located in the east part of town and in the cheap price range .
+the_missing_sock is located at finders_corner_newmarket_road and their phone number is 01223_812660 .
+thank you , goodbye .
+there are no irish restaurants in the area .
+there are two korean restaurants . do you have a preference of area ?
+little_seoul 's address is 108_regent_street_city_centre and their phone number is 01223_308681 .
+thank you for using the cambridge restaurant system . goodbye .
+pizza_hut_cherry_hinton is a moderately priced restaurant in the south part of town . would you like their address ?
+the address is g4_cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_323737 .
+thank you and goodbye .
+the_nirala is the only one matching your request . you can contact them at 01223_360966 .
+the_nirala is in the north part of town and it is in the moderate price range .
+the phone number for the_nirala is 01223_360966 and they are located at 7_milton_road_chesterton . the postcode is cb43hl .
+thank you for using our system . good bye
+the nandos in on the south side of town and is in the cheap price range .
+nandos 's address is cambridge_leisure_park_clifton_way and the postcode is cb17dy .
+thank you for using our system . good bye
+there are no moroccan restaurant in the centre . do you want to try something else ?
+there are no restaurants serving vegetarian food .
+efes_restaurant serves turkish food . do you need any further information ?
+anatolia 's address is 30_bridge_street_city_centre and the phone number is 01223_362372 . is there anything else i can help you with ?
+you 're welcome . good bye .
+chiquito_restaurant_bar is a expensively priced restaurant in the south part of town .
+nandos is an portuguese restaurant located in the south part of town in the cheap price range .
+thank you , goodbye .
+thank you for using the cambridge restaurant system . goodbye .

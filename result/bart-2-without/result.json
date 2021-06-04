@@ -1,0 +1,2526 @@
+{
+    "0": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no australian restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no british restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for travellers_restaurant is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "1": [
+        {
+            "spk": "SYS",
+            "text": "the_missing_sock is in the north part of town and in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at 191_histon_road_chesterton. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for da_vinci_pizzeria is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "2": [
+        {
+            "spk": "SYS",
+            "text": "there are no moderately priced steakhouse restaurants. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced british restaurants. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the golden_wok is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "restaurant_one_seven is located at restaurant_two_three_downing_street_city_centre. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "3": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no corsica restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving british food. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves british food and is in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant's address is cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "it is in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "rajmahal is an expensive british restaurant in the west part of town."
+        }
+    ],
+    "4": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an expensive restaurant in the south part of town in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar serves italian food in the expensive price range and in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys address is cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "5": [
+        {
+            "spk": "SYS",
+            "text": "la_margherita is an italian restaurant in the west part of town that is in the cheap price range and in the moderate price range. their phone number is 01223_327908 and their address is 191_histon_road_chesterton"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita is located in the west part of town and is in the cheap price range. their phone number is 01223_362456 and their address is cambridge_leisure_park_clifton_way."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "6": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the north part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for da_vinci_pizzeria is 191_histon_road_chesterton and the phone number is 01223_327908."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "7": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving panasian food in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located in the south part of town and is in the cheap price range. their phone number is 01223_362456 and their postcode is cb58aq."
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys serves italian food. their phone number is 01223_412430 and their postcode is cb17dy."
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys is in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "8": [
+        {
+            "spk": "SYS",
+            "text": "there are no british restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves british food in the moderate price range and in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "9": [
+        {
+            "spk": "SYS",
+            "text": "the curry_prince is in the east part of town and in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "meghna is an italian restaurant located at 205_victoria_road_chesterton. the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "10": [
+        {
+            "spk": "SYS",
+            "text": "there are no cheap italian restaurants. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "da_vinci_pizzeria is located at 20_milton_road_chesterton and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "they serve italian food."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "11": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the cheap price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "bangkok_city is an italian restaurant in the cheap price range that serves italian food."
+        },
+        {
+            "spk": "SYS",
+            "text": "their address is cambridge_leisure_park_clifton_way_cherry_hinton."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "12": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "13": [
+        {
+            "spk": "SYS",
+            "text": "there are no british restaurants in the east part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the grafton_hotel_restaurant is in the east part of town and in the cheap price range. the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "14": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving scottish food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving scottish food in the centre of town. do you have a preference of area or type of food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a nice british restaurant in the centre of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the cotto is 01223_362456. may i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "15": [
+        {
+            "spk": "SYS",
+            "text": "there are no british restaurants in the centre part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "curry_prince is located at 108_regent_street_city_centre and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "16": [
+        {
+            "spk": "SYS",
+            "text": "there are no moderate price restaurants serving austrian food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants matching your request. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for saint_johns_chop_house is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        }
+    ],
+    "17": [
+        {
+            "spk": "SYS",
+            "text": "there are no lebanese restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the_lucky_star is an italian restaurant located in the centre part of town and is in the expensive price range. the phone number is 01223_362456 and the address is cambridge_leisure_park_clifton_way_cherry_hinton."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "18": [
+        {
+            "spk": "SYS",
+            "text": "there are two expensive restaurants in the south part of town. do you prefer italian or indian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "19": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is in the west part of town and in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the_nirala is a british restaurant in the moderate price range. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is saint_johns_chop_house_619_newmarket_road_fen_ditton and the phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "20": [
+        {
+            "spk": "SYS",
+            "text": "there are no belgian restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no belgian restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no cheap italian restaurants in the area. would you like to try something else?"
+        }
+    ],
+    "21": [
+        {
+            "spk": "SYS",
+            "text": "nandos is a moderately priced restaurant that serves british food. their address is 108_regent_street_city_centre and their phone number is 01223_327908"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a moderately priced restaurant that serves british food in the centre of town. their address is cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "saint_johns_chop_house is located at 191_histon_road_chesterton and their phone number is 01223_327908. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "22": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton and the postcode is cb58pa. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "23": [
+        {
+            "spk": "SYS",
+            "text": "there are no cuban restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving british food in the moderate price range. do you have a preference of area or type of food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for fitzbillies_restaurant is 01223_354382."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "24": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is a moderately priced italian restaurant in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "prezzo's address is cambridge_leisure_park_clifton_way and their postcode is cb21uj. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "25": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "little_seoul is an expensive italian restaurant located in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for stazione_restaurant_and_coffee_bar is 20_magdalene_street_city_centre and the phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "they serve italian food."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "26": [
+        {
+            "spk": "SYS",
+            "text": "there are no caribbean restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the_nirala is an italian restaurant in the south part of town. the phone number is 01223_362456 and the postcode is cb58aq."
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys is located in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "27": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no expensive steakhouse restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving british food in the expensive price range. do you prefer italian or indian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a nice british restaurant in the expensive price range in the centre of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for fitzbillies_restaurant is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is fitzbillies_hotel_139_huntingdon_road_city_centre."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "28": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no cheap restaurants serving eritrean food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are four restaurants that serve italian food. do you have a preference on price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are five cheap restaurants that serve italian food in the centre of town. do you have a preference?"
+        },
+        {
+            "spk": "SYS",
+            "text": "their address is cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using the cambridge restaurant system. good bye"
+        }
+    ],
+    "29": [
+        {
+            "spk": "SYS",
+            "text": "there are no caribbean restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia is an italian restaurant in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is a moderately priced italian restaurant in the south of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "pizza_hut_cherry_hinton's phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "the postcode for pizza_hut_cherry_hinton is cb21uj."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "30": [
+        {
+            "spk": "SYS",
+            "text": "there are no turkish restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia is an italian restaurant that serves turkish food."
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia serves turkish food in the cheap price range and in the south part of town. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the turkish restaurant is located at 108_regent_street_city_centre and the phone number is 01223_362456. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "31": [
+        {
+            "spk": "SYS",
+            "text": "there are no australian restaurants in the cheap price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants that serve italian food in the cheap price range. do you have a preference of area or price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita's address is 24_green_street_city_centre and the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "32": [
+        {
+            "spk": "SYS",
+            "text": "there are no moderately priced basque restaurants. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a moderately priced restaurant that serves british food."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant's phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "cotto's phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "33": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving british food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants serving british food in the city. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the centre of town. do you prefer indian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves british food and is located in the east part of town. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "cotto's address is cambridge_leisure_park_clifton_way and the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "34": [
+        {
+            "spk": "SYS",
+            "text": "there are no cheap malaysian restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve italian food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a cheap italian restaurant in the centre of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "35": [
+        {
+            "spk": "SYS",
+            "text": "there are no swedish restaurants in the north part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two italian restaurants in the north part of town. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "da_vinci_pizzeria is located at 20_milton_road_chesterton and its phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "36": [
+        {
+            "spk": "SYS",
+            "text": "there are no kosher restaurants on the west side of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "prezzo's phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "37": [
+        {
+            "spk": "SYS",
+            "text": "there are no greek restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving greek food in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "greek is an italian restaurant in the south part of town. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for frankie_and_bennys is 01223_362456 and their postcode is cb58aq."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "38": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an italian restaurant in the south part of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar serves italian food in the south part of town and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves italian food in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for frankie_and_bennys is 01223_362456 and the postcode is cb58aq."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "39": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no expensive italian restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "cocum_uno's address is cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "40": [
+        {
+            "spk": "SYS",
+            "text": "there are no basque restaurants on the west side. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two italian restaurants in the west part of town. do you prefer italian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for la_margherita is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "41": [
+        {
+            "spk": "SYS",
+            "text": "there are no austrian restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no austrian restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving italian food in the west area. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves italian food in the west part of town"
+        },
+        {
+            "spk": "SYS",
+            "text": "prezzo's phone number is 01223_362456. is there anything else i can help you with today?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        }
+    ],
+    "42": [
+        {
+            "spk": "SYS",
+            "text": "there are no cheap scandinavian restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no cheap restaurants that serve italian food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "43": [
+        {
+            "spk": "SYS",
+            "text": "there are no international restaurants in the north part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two italian restaurants in the north part of town. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for da_vinci_pizzeria is cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "44": [
+        {
+            "spk": "SYS",
+            "text": "there are no tuscan restaurants in the cheap price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no cheap italian restaurants. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita's phone number is 01223_362456 and their address is cambridge_leisure_park_clifton_way_cherry_hinton."
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita is located at 15_magdalene_street_city_centre and the phone number is 01223_315232."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "45": [
+        {
+            "spk": "SYS",
+            "text": "there are no russian restaurants in the center of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving british food in the center of town. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "46": [
+        {
+            "spk": "SYS",
+            "text": "there are no welsh restaurants in the cheap price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no welsh restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no welsh restaurants in the cheap price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for da_vinci_pizzeria is 20_magdalene_street_city_centre and their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "47": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve crossover food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve crossover food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving crossover food in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anitolia is located at 108_regent_street_city_centre and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        }
+    ],
+    "48": [
+        {
+            "spk": "SYS",
+            "text": "la_margherita is a cheap italian restaurant in the centre of town. their address is cambridge_leisure_park_clifton_way and their phone number is 01223_327908"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a cheap italian restaurant in the centre of town. their address is cambridge_leisure_park_clifton_way and their phone number is 01223_327908."
+        },
+        {
+            "spk": "SYS",
+            "text": "yes, that is the food type of that restaurant."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "49": [
+        {
+            "spk": "SYS",
+            "text": "there are no danish restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no danish restaurants in the south. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys is located at cambridge_leisure_park_clifton_way_cherry_hinton. their phone number is 01223_400170 and their postcode is cb58aq."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "50": [
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the south part of town. would you prefer indian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the italian restaurant is located at cambridge_leisure_park_clifton_way and the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "51": [
+        {
+            "spk": "SYS",
+            "text": "there are no british restaurants in the east part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "52": [
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the west part of town. would you prefer indian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two british restaurants in the west part of town. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "they serve british food."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "53": [
+        {
+            "spk": "SYS",
+            "text": "there are no basque restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no british restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at 191_histon_road_chesterton and their phone number is 01223_350688. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "it is located in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "54": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an expensive restaurant in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an expensive italian restaurant in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys is located at cambridge_leisure_park_clifton_way_cherry_hinton. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "55": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants that serve english food in the west part of town. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants serving british food in the west part of town. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at 451_newmarket_road_fen_ditton and their phone number is 01223_327908. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for graffiti is hotel_felix_whitehouse_lane_huntingdon_road."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "56": [
+        {
+            "spk": "SYS",
+            "text": "there are no german restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two italian restaurants in the west part of town. do you prefer italian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for la_margherita is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "57": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar serves christmas food in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two british restaurants in the west part of town. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves british food in the moderate price range and is in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at 451_newmarket_road_fen_ditton and the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "58": [
+        {
+            "spk": "SYS",
+            "text": "there are no expensive restaurants that serve international food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve british food in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for fitzbillies_restaurant is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "59": [
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the east part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "pizza_hut_fen_ditton is located at 191_histon_road_chesterton."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "60": [
+        {
+            "spk": "SYS",
+            "text": "there are no expensive vegetarian restaurants in the city. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve british food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for graffiti is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "61": [
+        {
+            "spk": "SYS",
+            "text": "there are no welsh restaurants in the north part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an italian restaurant in the north part of town that serves italian food."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "62": [
+        {
+            "spk": "SYS",
+            "text": "there are no moderately priced restaurants in the south. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the south part of town. do you prefer italian or modern_european food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "pizza_hut_cherry_hinton is in the south part of town and in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is cambridge_leisure_park_clifton_way_cherry_hinton and the postcode is cb21uf. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "63": [
+        {
+            "spk": "SYS",
+            "text": "there are no russian restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a british restaurant in the centre of town and is in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a nice british restaurant in the centre of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located in the west part of town and the phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "64": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants serving irish food in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita is an expensive british restaurant in the centre of town. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "65": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving corsica food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving corsica food in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "corsica is a moderately priced italian restaurant in the west part of town. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "66": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants that serve world food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar serves italian food and is located at 108_regent_street_city_centre. their phone number is 01223_362456 and they are located at 205_victoria_road_chesterton. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "67": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve swiss food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants that serve british food in the centre area. do you have a preference on the price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "cotto's phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "68": [
+        {
+            "spk": "SYS",
+            "text": "there are no greek restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_raza is an italian restaurant located at 108_regent_street_city_centre. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "greek_restaurant is located in the north part of town and is in the cheap price range. their address is cambridge_leisure_park_clifton_way and their phone number is 01223_327908."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "69": [
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the west part of town. would you prefer indian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the italian restaurant is located at cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "70": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita is an expensive restaurant in the centre of town serving catalan food."
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced catalan restaurants in the centre area of town. do you prefer italian or indian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two italian restaurants in the centre of town. do you prefer italian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "prezzo is located at thier address, phone number is 01223_362456 and the address is thier bridge_street_city_centre."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "71": [
+        {
+            "spk": "SYS",
+            "text": "there are no scandinavian restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no italian restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita is a moderately priced italian restaurant in the south part of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the postcode is cb21uj."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "72": [
+        {
+            "spk": "SYS",
+            "text": "there are no indonesian restaurants in the north part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is an italian restaurant in the north part of town that serves italian food. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for da_vinci_pizzeria is 20_milton_road_chesterton and the phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        }
+    ],
+    "73": [
+        {
+            "spk": "SYS",
+            "text": "there are no indian restaurants in the south area of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two indian restaurants in the south area of town. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "taj_tandoori's phone number is 01223_362456 and the address is 205_victoria_road_chesterton. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "74": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is a moderately priced restaurant in the north part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "yes, there is also the_nirala, which serves chinese food and is in the north part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the_nirala is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "75": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is located at 191_histon_road_chesterton and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "76": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is in the south part of town and in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is in the south part of town and in the expensive price range. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton. their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome, goodbye."
+        }
+    ],
+    "77": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is a cheap restaurant in the south part of town in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is in the cheap price range and in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is located at cambridge_leisure_park_clifton_way and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "78": [
+        {
+            "spk": "SYS",
+            "text": "there are no halal restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a portuguese restaurant in the centre of town and is in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is located at cambridge_leisure_park_clifton_way and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        }
+    ],
+    "79": [
+        {
+            "spk": "SYS",
+            "text": "there are no jamaican restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a portuguese restaurant in the centre of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos_city_centre is located at cambridge_leisure_park_clifton_way_cherry_hinton. their phone number is 01223_400170 and they are located at g4_cambridge_lodge_hotel_139_huntingdon_road_chesterton. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "80": [
+        {
+            "spk": "SYS",
+            "text": "there are no lebanese restaurants in the city. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for ali_baba is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "81": [
+        {
+            "spk": "SYS",
+            "text": "there are no international restaurants in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants that serve international food in the west part of town. do you have a preference of price range?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the_missing_sock is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "82": [
+        {
+            "spk": "SYS",
+            "text": "there are no malaysian restaurants in the east part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no indian restaurants in the east part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "curry_prince is located at 451_newmarket_road_fen_ditton and its phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "83": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is a chinese restaurant in the north part of town in the moderate price range. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the golden_wok is located in the north part of town and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the_nirala is 01223_362456 and the postcode is cb21uf. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "84": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is a chinese restaurant in the moderate price range and in the north part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at 191_histon_road_chesterton and its phone number is 01223_327908. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "85": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is a chinese restaurant in the north part of town that is in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the royal_spice is in the cheap price range and in the north part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "da_vinci_pizzeria is located at 191_histon_road_chesterton. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "86": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is a moderately priced restaurant in the north part of town in the moderate price range. their phone number is 01223_350688."
+        },
+        {
+            "spk": "SYS",
+            "text": "golden_wok is located in the north part of town and is in the moderate price range. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "restaurant_two_two is in the expensive price range and in the north part of town. the phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for restaurant_two_two is 01223_351880."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "87": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants that serve swiss food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thanh_binh is a vietnamese restaurant in the west part of town and is in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "thanh_binh's address is 17_magdalene_street_city_centre"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "88": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving corsica food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving corsica food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants serving corsica food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nah, there are no restaurants serving corsica food in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "backstreet_bistro is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton. their phone number is 01223_400170 and their postcode is cb17dy"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        }
+    ],
+    "89": [
+        {
+            "spk": "SYS",
+            "text": "la_raza is a moderately priced spanish restaurant in the centre of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "la_tasca's address is cambridge_leisure_park_clifton_way and the phone number is 01223_362456. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "90": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an italian restaurant in the south part of town that is in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar serves italian food in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar serves italian food in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is located at cambridge_leisure_park_clifton_way_cherry_hinton. their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is located at cambridge_leisure_park_clifton_way. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "91": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants matching your request. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the curry_prince is located in the east part of town and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "curry_prince is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "92": [
+        {
+            "spk": "SYS",
+            "text": "little_seoul is a korean restaurant in the town centre."
+        },
+        {
+            "spk": "SYS",
+            "text": "little_seoul is located at 108_regent_street_city_centre, and its phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "93": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is a moderately priced restaurant in the north part of town. their address is 191_histon_road_chesterton."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "94": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "what type of food are you looking for?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the west part of town. do you prefer italian or indian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the curry_prince is in the west part of town and in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "prezzo's address is 191_histon_road_chesterton and their phone number is 01223_327908."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "95": [
+        {
+            "spk": "SYS",
+            "text": "la_mimosa is a mexican restaurant in the south part of town in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "96": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no english restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "little_seoul is a chinese restaurant in the moderate price range."
+        }
+    ],
+    "97": [
+        {
+            "spk": "SYS",
+            "text": "there are no gastropub restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the_cow_pizza_kitchen_and_bar is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        }
+    ],
+    "98": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants matching your request. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the saint_johns_chop_house is located in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for saint_johns_chop_house is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "they serve moderately priced food."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "99": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is an expensive restaurant in the south part of town in the expensive price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves chinese food in the expensive price range and in the south part of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "100": [
+        {
+            "spk": "SYS",
+            "text": "da_vinci_pizzeria is in the west part of town and in the cheap price range. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "royal_spice is an inexpensive indian restaurant on the west side of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is a cheap indian restaurant in the west part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita serves italian food. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thanh_binh's address is 191_histon_road_chesterton and their phone number is 01223_327908."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        }
+    ],
+    "101": [
+        {
+            "spk": "SYS",
+            "text": "the_missing_sock is a chinese restaurant in the east part of town in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "curry_prince is located at 451_newmarket_road_fen_ditton and its phone number is 01223_362456. the postcode is cb21uf. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "102": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no expensive cantonese restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants serving north american food in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "gourmet_burger_kitchen is located at g4_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "103": [
+        {
+            "spk": "SYS",
+            "text": "there are no afghan restaurants in the centre of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no afghan restaurants in the centre of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are several afghan restaurants in the centre of town. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia serves turkish food in the centre of town. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "i'm sorry but there are no turkish restaurants in the centre of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia's address is bridge_road_city_centre and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "104": [
+        {
+            "spk": "SYS",
+            "text": "there are no barbeque restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no barbeque restaurants in the city centre. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are four restaurants serving north_american food. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "105": [
+        {
+            "spk": "SYS",
+            "text": "there are no lebanese restaurants in the centre of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye!"
+        }
+    ],
+    "106": [
+        {
+            "spk": "SYS",
+            "text": "there are no japanese restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are four restaurants serving modern_european food. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a modern_european restaurant in the south part of town and in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "107": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry but there are no restaurants that serve european food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "i'm sorry but there are no restaurants serving european food in the west part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_margherita serves european food and is in the west part of town. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for cambridge_lodge_restaurant is 01223_362456 and the postcode is cb58pa. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "108": [
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the south part of town. would you prefer indian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "pizza_hut_cherry_hinton is located at 191_histon_road_chesterton. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "109": [
+        {
+            "spk": "SYS",
+            "text": "there are no restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves chinese food in the west part of town and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "meghna's phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "110": [
+        {
+            "spk": "SYS",
+            "text": "there are no cheap restaurants in the north. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "da_vinci_pizzeria is located in the north part of town and in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the postcode for da_vinci_pizzeria is cb21uj. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "111": [
+        {
+            "spk": "SYS",
+            "text": "the_nirala is a moderately priced restaurant on the south side of town in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant is located at cambridge_leisure_park_clifton_way_cherry_hinton. their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "112": [
+        {
+            "spk": "SYS",
+            "text": "bangkok_city is a thai restaurant on the north side of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "bangkok_city is located at 191_histon_road_chesterton and the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "113": [
+        {
+            "spk": "SYS",
+            "text": "cambridge_lodge_restaurant serves european food and is in the expensive price range and in the centre of town. their address is cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "114": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address is cambridge_lodge_hotel_139_huntingdon_road_city_centre."
+        },
+        {
+            "spk": "SYS",
+            "text": "the cambridge_lodge_restaurant is in the west part of town and in the expensive price range. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        }
+    ],
+    "115": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants that serve vegetarian food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are two restaurants that serve european food in the expensive price range. la_margherita serves italian food and the_lucky_star serves chinese food."
+        },
+        {
+            "spk": "SYS",
+            "text": "cambridge_lodge_restaurant's phone number is 01223_362456 and their address is cambridge_leisure_park_clifton_way_cherry_hinton."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "116": [
+        {
+            "spk": "SYS",
+            "text": "what type of food would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "grafton_hotel_restaurant serves indian food in the north part of town. would you like their phone number?"
+        },
+        {
+            "spk": "SYS",
+            "text": "royal_spice is located at 191_histon_road_chesterton and their phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "117": [
+        {
+            "spk": "SYS",
+            "text": "da_vinci_pizzeria is in the east part of town and in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the_missing_sock is located at finders_corner_newmarket_road and its phone number is 01223_362456. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "goodbye."
+        }
+    ],
+    "118": [
+        {
+            "spk": "SYS",
+            "text": "there are no gastropub restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "backstreet_bistro is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton and the postcode is cb58pa. can i help you with anything else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        }
+    ],
+    "119": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is a moderately priced restaurant in the south part of town in the moderate price range. their phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "restaurant_alimentum serves chinese food."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "120": [
+        {
+            "spk": "SYS",
+            "text": "the_lucky_star is a french restaurant in the centre part of town. their address is cambridge_leisure_park_clifton_way_cherry_hinton and their postcode is cb58pa."
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys is located in the centre part of town and is in the cheap price range. their address is cambridge_leisure_park_clifton_way_cherry_hinton and their postcode is cb17dy"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "121": [
+        {
+            "spk": "SYS",
+            "text": "there are two moderately priced restaurants in the north part of town. would you prefer indian or italian food?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the golden_wok is located in the north part of town and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the phone number for the golden_wok is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "122": [
+        {
+            "spk": "SYS",
+            "text": "there are no scandinavian restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "frankie_and_bennys is a french restaurant in the centre of town and is in the cheap price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "restaurant_two_two's phone number is 01223_362456."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you and good bye"
+        }
+    ],
+    "123": [
+        {
+            "spk": "SYS",
+            "text": "there are no restrauant serving turkish style food. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia is a turkish restaurant in the centre of town. their address is 24_green_street_city_centre and their postcode is cb58aq."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "124": [
+        {
+            "spk": "SYS",
+            "text": "golden_wok is a moderately priced restaurant in the north part of town in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "golden_wok is located at 191_histon_road_chesterton. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "125": [
+        {
+            "spk": "SYS",
+            "text": "there are no cheap malaysian restaurants in the area. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "la_raza is a cheap european restraunt in the centre of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for the_river_bar_steakhouse_and_grill is 451_newmarket_road_fen_ditton and the phone number is 01223_327908."
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "126": [
+        {
+            "spk": "SYS",
+            "text": "la_raza is a cheap spanish restaurant in the centre of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "la_raza is a lebanese restaurant in the centre of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "ali_baba's address is cambridge_leisure_park_clifton_way_cherry_hinton and the phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. goodbye."
+        }
+    ],
+    "127": [
+        {
+            "spk": "SYS",
+            "text": "there are no danish restaurants listed. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are three restaurants serving north_american food. what price range would you like?"
+        },
+        {
+            "spk": "SYS",
+            "text": "gourmet_burger_kitchen is located at g4_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "gourmet_burger_kitchen is in the centre part of town and in the cheap price range. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "gourmet_burger_kitchen's phone number is 01223_312598 and their postcode is cb21ab"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "128": [
+        {
+            "spk": "SYS",
+            "text": "the_missing_sock is a cheap italian restaurant in the east part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "the_missing_sock is located at finders_corner_newmarket_road and its phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "129": [
+        {
+            "spk": "SYS",
+            "text": "there are no irish restaurants in the expensive price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "little_seoul is an expensive korean restaurant in the centre of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "little_seoul is located at 108_regent_street_city_centre and the phone number is 01223_362456. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "130": [
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is a moderately priced restaurant in the south part of town."
+        },
+        {
+            "spk": "SYS",
+            "text": "chiquito_restaurant_bar is located at 2g_cambridge_leisure_park_clifton_way_cherry_hinton and their phone number is 01223_400170. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "131": [
+        {
+            "spk": "SYS",
+            "text": "the_nirala is a moderately priced restaurant in the north part of town in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "golden_wok is located in the north part of town and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "the_nirala's phone number is 01223_350688 and their postcode is cb21uj."
+        },
+        {
+            "spk": "SYS",
+            "text": "you're welcome. good bye."
+        }
+    ],
+    "132": [
+        {
+            "spk": "SYS",
+            "text": "there are no cheap restaurants on the south side of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "the address for nandos is cambridge_leisure_park_clifton_way and the postcode is cb58pa. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you, goodbye."
+        }
+    ],
+    "133": [
+        {
+            "spk": "SYS",
+            "text": "there are no moroccan restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "there are no moroccan restaurants in the moderate price range. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia serves turkish food and is in the moderate price range."
+        },
+        {
+            "spk": "SYS",
+            "text": "anatolia is located at 30_bridge_street_city_centre. is there anything else i can help you with?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "134": [
+        {
+            "spk": "SYS",
+            "text": "i'm sorry, there are no restaurants in the south part of town. would you like to try something else?"
+        },
+        {
+            "spk": "SYS",
+            "text": "nandos is a portuguese restaurant in the south part of town. would you like their location?"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        },
+        {
+            "spk": "SYS",
+            "text": "thank you for using our system. good bye"
+        }
+    ],
+    "135": [
+        {
+            "spk": "SYS",
+            "text": ""
+        }
+    ]
+}
